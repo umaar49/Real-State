@@ -1,4 +1,4 @@
-🏠 Real Estate Price Prediction
+# 🏠 Real Estate Price Prediction
 
 This project focuses on predicting house prices based on multiple property features such as area, number of bedrooms, furnishing status, and more. The analysis includes data preprocessing, exploratory data analysis (EDA), and model training using linear regression with Ridge regularization.
 
