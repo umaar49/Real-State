@@ -31,7 +31,12 @@ This project focuses on predicting house prices based on multiple property featu
 - Applied one-hot encoding to furnishingstatus
 - Standardized numerical features using StandardScaler
 
+> 📌 **Dataset Source:**  
+> [https://www.kaggle.com/datasets/yasserh/housing-prices-dataset]  
+> *(I do not own this dataset — used for educational purposes only)*
+
 ---
+
 ## 📊 Exploratory Data Analysis (EDA)
 
 - 🏷️ Visualized distribution of price and log(price)
